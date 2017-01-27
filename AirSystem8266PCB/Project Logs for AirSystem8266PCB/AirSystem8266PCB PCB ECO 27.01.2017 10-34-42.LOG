@@ -1,0 +1,89 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=D1(BL-LC1206)
+Added Component: Designator=DA1(ESP-12)
+Added Component: Designator=L1(SMD 5x5)
+Added Component: Designator=R1(1206)
+Added Component: Designator=R2(1206)
+Added Component: Designator=R3(1206)
+Added Component: Designator=R5(1206)
+Added Component: Designator=R6(1206)
+Added Component: Designator=R8(1206)
+Added Component: Designator=R9(1206)
+Added Component: Designator=VD1(DO-213AA(SOD80))
+Added Component: Designator=XP1(PLS-6_1)
+Added Component: Designator=XP(PW10-6-M)
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=DA1-8
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=VD1-2
+Added Pin To Net: NetName=5V Pin=XP1-5
+Added Net: Name=5V
+Added Pin To Net: NetName=ADC Pin=DA1-2
+Added Net: Name=ADC
+Added Pin To Net: NetName=BTN Pin=DA1-4
+Added Net: Name=BTN
+Added Pin To Net: NetName=D12 Pin=DA1-6
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=DA1-7
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=DA1-5
+Added Net: Name=D14
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=DA1-9
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R6-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=R1-2
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDA1_10 Pin=DA1-10
+Added Pin To Net: NetName=NetDA1_10 Pin=R5-1
+Added Net: Name=NetDA1_10
+Added Pin To Net: NetName=NetDA1_11 Pin=DA1-11
+Added Pin To Net: NetName=NetDA1_11 Pin=R6-2
+Added Net: Name=NetDA1_11
+Added Pin To Net: NetName=NetDA1_12 Pin=DA1-12
+Added Pin To Net: NetName=NetDA1_12 Pin=R3-2
+Added Pin To Net: NetName=NetDA1_12 Pin=XP1-1
+Added Net: Name=NetDA1_12
+Added Pin To Net: NetName=NetDA1_15 Pin=DA1-15
+Added Pin To Net: NetName=NetDA1_15 Pin=XP1-4
+Added Net: Name=NetDA1_15
+Added Pin To Net: NetName=NetDA1_16 Pin=DA1-16
+Added Pin To Net: NetName=NetDA1_16 Pin=XP1-3
+Added Net: Name=NetDA1_16
+Added Pin To Net: NetName=NetDA2_3 Pin=R8-1
+Added Pin To Net: NetName=NetDA2_3 Pin=R9-2
+Added Net: Name=NetDA2_3
+Added Pin To Net: NetName=NetDA2_7 Pin=L1-1
+Added Net: Name=NetDA2_7
+Added Pin To Net: NetName=RST Pin=DA1-1
+Added Pin To Net: NetName=RST Pin=R2-2
+Added Pin To Net: NetName=RST Pin=XP1-2
+Added Net: Name=RST
+Added Pin To Net: NetName=SCL Pin=DA1-14
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=DA1-13
+Added Net: Name=SDA
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=VDD Pin=VD1-1
+Added Net: Name=VDD
+Added Class: Name=AirSystem8266PCB
